@@ -1,0 +1,29 @@
+body {
+  background-color: #fff;
+  margin: 0;
+}
+
+.stars {
+  flex-direction: row;
+  display: flex;
+}
+
+.stars_star {
+  background-image: url("star.fa806e3c.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
+
+.stars_star_active {
+  background-image: url("star-active.2be54011.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
